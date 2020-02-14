@@ -1,4 +1,5 @@
 package com.capg.demo;
+
 import java.util.Scanner;
 
 public class TestLeapYear {
@@ -19,8 +20,9 @@ public class TestLeapYear {
 		
 		
 		
+		LocalDate date = LocalDate.now();
+		
 		
 
 	}
 }
-
